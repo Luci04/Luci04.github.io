@@ -2,7 +2,6 @@ var typed = new Typed(".Typed", {
     strings: [
         "Student._",
         "Web Dev._",
-        "Engineer._",
         "Gamer._"
     ],
     typeSpeed: 100,

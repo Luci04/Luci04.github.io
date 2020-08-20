@@ -120,6 +120,10 @@ img{
   box-shadow: 0 1px 4px rgba(146,161,176,.15);
 }
 
+.special2{
+  margin: 10px;
+}
+
 /*===== NAV =====*/
 .nav{
   height: var(--header-height);
