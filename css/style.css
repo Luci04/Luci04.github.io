@@ -316,7 +316,7 @@ img{
 @media screen and (min-width: 100px)
 {
   .sub{
-    min-height: 21px;
+    min-height: 25px;
 }
 }
 
