@@ -313,13 +313,6 @@ img{
 }
 
 /* ===== MEDIA QUERIES=====*/
-@media screen and (min-width: 100px)
-{
-  .sub{
-    min-height: 25px;
-}
-}
-
 
 @media screen and (min-width: 768px){
   .home__social-icon{
@@ -335,9 +328,6 @@ img{
     background-size: 48% 100%;
     background-position:  right ;
   }
-  .sub{
-        min-height: 75px;
-    }
 
   body{
     margin: 0;
@@ -434,11 +424,6 @@ img{
   .home__img{
     right: 10%;
   }
-
-.sub{
-    min-height: 150px;
-}
-
 }
 
 
